@@ -1,0 +1,78 @@
+date,amount,category,description
+29-10-2024,123.32,Income,Salary
+29-10-2024,345.0,Income,side gig
+18-02-2023,1456.0,Income,Salary
+29-10-2024,123.32,Income,Salary
+29-10-2024,345.0,Income,Side Gig
+18-02-2023,1456.0,Income,Salary
+15-08-2024,50.75,Expense,Groceries
+22-07-2024,200.0,Expense,Electricity Bill
+05-06-2024,150.0,Expense,Internet Bill
+03-05-2024,75.5,Income,Freelance
+28-03-2024,500.0,Income,Bonus
+10-02-2024,80.0,Expense,Transport
+25-12-2023,250.0,Expense,Shopping
+01-11-2023,90.25,Expense,Restaurant
+15-10-2023,100.0,Income,Dividends
+12-09-2023,300.0,Expense,Rent
+20-08-2023,400.0,Income,Investment Return
+30-07-2023,600.0,Income,Project Payment
+25-06-2023,75.0,Expense,Entertainment
+05-05-2023,100.0,Expense,Medical
+29-04-2023,120.0,Income,Gift
+14-03-2023,89.0,Expense,Subscription
+28-02-2023,500.0,Income,Consulting
+10-01-2023,75.0,Expense,Groceries
+18-01-2023,50.0,Expense,Transport
+22-01-2023,1200.0,Income,Salary
+02-02-2023,30.0,Expense,Snacks
+08-02-2023,90.0,Expense,Utilities
+20-02-2023,130.0,Income,Freelance
+15-03-2023,200.0,Expense,Household Supplies
+28-03-2023,120.0,Income,Investment Return
+03-04-2023,75.5,Expense,Subscription
+15-04-2023,100.0,Income,Dividends
+28-04-2023,500.0,Income,Project Payment
+10-05-2023,80.0,Expense,Transport
+22-05-2023,300.0,Expense,Shopping
+05-06-2023,150.0,Expense,Medical
+18-06-2023,1250.0,Income,Salary
+23-06-2023,50.0,Expense,Groceries
+07-07-2023,90.0,Expense,Electricity Bill
+19-07-2023,400.0,Income,Consulting
+02-08-2023,45.0,Expense,Entertainment
+14-08-2023,150.0,Income,Side Gig
+25-08-2023,125.0,Expense,Internet Bill
+12-09-2023,70.0,Expense,Restaurant
+26-09-2023,600.0,Income,Bonus
+11-10-2023,50.0,Expense,Snacks
+20-10-2023,1000.0,Income,Investment Return
+29-10-2023,90.25,Expense,Groceries
+04-11-2023,300.0,Expense,Rent
+15-11-2023,100.0,Income,Freelance
+24-11-2023,500.0,Income,Project Payment
+07-12-2023,200.0,Expense,Clothes
+22-12-2023,50.75,Expense,Utilities
+05-01-2024,150.0,Expense,Medical
+18-01-2024,250.0,Income,Freelance
+20-02-2024,75.5,Expense,Subscription
+01-03-2024,120.0,Expense,Transport
+15-03-2024,1000.0,Income,Salary
+27-03-2024,125.0,Expense,Groceries
+09-04-2024,300.0,Income,Consulting
+20-04-2024,90.0,Expense,Utilities
+05-05-2024,250.0,Income,Side Gig
+18-05-2024,60.0,Expense,Shopping
+02-06-2024,1200.0,Income,Salary
+19-06-2024,75.0,Expense,Entertainment
+01-07-2024,400.0,Income,Project Payment
+15-07-2024,125.0,Expense,Electricity Bill
+29-07-2024,50.0,Expense,Snacks
+10-08-2024,600.0,Income,Investment Return
+24-08-2024,150.0,Expense,Transport
+05-09-2024,1250.0,Income,Salary
+18-09-2024,90.0,Expense,Restaurant
+30-09-2024,100.0,Income,Freelance
+12-10-2024,80.0,Expense,Medical
+22-10-2024,50.75,Expense,Groceries
+05-11-2024,250.0,Income,Consulting
